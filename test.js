@@ -15,15 +15,6 @@ let item3 = "purchase 2019-09-26 3 UAH item3";
 let item4 = "purchase 2019-10-16 4 PLN item4";
 let item5 = "purchase 2018-12-26 5 CAD item5";
 
-/*//The set of regular expressions
-let purchaseRegExp = /^purchase\s(\d\d\d\d)-(\d\d)-(\d\d)\s([0-9\.]{1,})\s([A-Z]{3})\s([a-zA-Z0-9_\s\D]{1,})/;
-let purchase = /^purchase/;
-let all = /^all/;
-let cl = /^clear/;
-let rep = /^report/;
-let clear = /^clear\s(\d\d\d\d-\d\d-\d\d)/;
-let report = /^report\s(\d\d\d\d)\s([A-Z]{3})/;*/
-
 //test report variable
 let testAlert = "";
 
